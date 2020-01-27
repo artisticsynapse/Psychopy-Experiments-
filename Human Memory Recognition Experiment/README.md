@@ -1,1 +1,6 @@
+### Human Memory Recognition Task
+
+![](Psychopy_Advance_Recognition_Memory_Task_GIF.gif)
+
+#### Description:
 In this experiment, six words are shown to the participant in the study phase. These words are either green, or red, in color. After studying these words, participants are asked to proceed with the test phase whenever ready. In test pase, participants are shown twelve words, six old words from the study phase, and six new words from test phase, mixed in a random manner. All the words in the test phase are uncolored. For each word, participant has to distinguish, and present with a response as to whether the word is old (from study phase), or new. 
