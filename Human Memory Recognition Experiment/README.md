@@ -13,6 +13,7 @@ In this experiment, six words are shown to the participant in the study phase. T
 
 #### Online: 
 ![Pavlovia - Human Recognition Memory Experiment](https://github.com/artisticsynapse/Psychopy-Experiments-/blob/master/Human%20Memory%20Recognition%20Experiment/Images/Pavlovia.jpg)
+
 Please click [here](https://gitlab.pavlovia.org/infinitejest/human-recognition-memory-experiment) to run the experiment online at [Pavlovia.org](https://pavlovia.org/):
 
   
