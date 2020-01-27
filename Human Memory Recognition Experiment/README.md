@@ -11,7 +11,7 @@ In this experiment, six words are shown to the participant in the study phase. T
 
 
 #### Credits:
-- ![PsychoPy Recognition Memory Experiment](https://www.youtube.com/watch?v=9BqRyut2UZk&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a)
-- ![Basic PsychoPy Data Processing in Excel - Part 1 & 2](https://www.youtube.com/watch?v=jl_0ZY0KFKw&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=3)
-- ![Plotting PsychoPy Data in Excel](https://www.youtube.com/watch?v=yTtRCltfJg0&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=5)
-- ![RKN and Confidence Rating Data Processing in Excel ](https://www.youtube.com/watch?v=NVZOx5d3vRE&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=6)
+- [PsychoPy Recognition Memory Experiment](https://www.youtube.com/watch?v=9BqRyut2UZk&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a)
+- [Basic PsychoPy Data Processing in Excel - Part 1 & 2](https://www.youtube.com/watch?v=jl_0ZY0KFKw&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=3)
+- [Plotting PsychoPy Data in Excel](https://www.youtube.com/watch?v=yTtRCltfJg0&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=5)
+- [RKN and Confidence Rating Data Processing in Excel ](https://www.youtube.com/watch?v=NVZOx5d3vRE&list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a&index=6)
