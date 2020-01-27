@@ -15,6 +15,7 @@ Online:
 
 Please clich [here](https://gitlab.pavlovia.org/infinitejest/human-recognition-memory-experiment) to run the experiment online at Pavlovia.org.
 
+[Pavlovia - Human Recognition Memory Experiment](Pavlovia.jpg)
 
   
 
