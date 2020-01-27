@@ -9,11 +9,11 @@ In this experiment, six words are shown to the participant in the study phase. T
 ## How to use:
 ### Run the task: 
  
-##### Offline:
+#### Offline:
 
-##### Online: 
-
-Please clich [here](https://gitlab.pavlovia.org/infinitejest/human-recognition-memory-experiment) to run the experiment online at [Pavlovia.org](https://pavlovia.org/): ![Pavlovia - Human Recognition Memory Experiment](https://github.com/artisticsynapse/Psychopy-Experiments-/blob/master/Human%20Memory%20Recognition%20Experiment/Images/Pavlovia.jpg)
+#### Online: 
+![Pavlovia - Human Recognition Memory Experiment](https://github.com/artisticsynapse/Psychopy-Experiments-/blob/master/Human%20Memory%20Recognition%20Experiment/Images/Pavlovia.jpg)
+Please click [here](https://gitlab.pavlovia.org/infinitejest/human-recognition-memory-experiment) to run the experiment online at [Pavlovia.org](https://pavlovia.org/):
 
   
 
