@@ -13,4 +13,4 @@ I hope this stands as a portfolio to express my interest, and involvement in beh
 
 - [PsychoPy, and Excel Tutorial Series - Memory Experiments, Coding, and Beyond](https://www.youtube.com/playlist?list=PL-KTa_GY7VEMehFKqnBgIg48KqbKwSj-a) by Dr. Jason Ozubko, Human Cognition and Memory Lab, SUNY Geneseo.
 - [PsychoPy Official Site](https://www.psychopy.org/), an open source software package written in the Python programming language primarily for use in neuroscience and experimental psychology research.
-- [PsychoPy Github Repository](https://github.com/psychopy/psychopy): more information related Psychopy available here. 
+- [PsychoPy Github Repository](https://github.com/psychopy/psychopy): more information regarding Psychopy available here. 
