@@ -14,8 +14,14 @@ The aim is to build an experiment which can study, and measure the capacity of r
 In this experiment, six words are shown to the participant in the study phase. These words are either green, or red, in color. After studying these words, participants are asked to proceed with the test phase whenever ready. In test pase, participants are shown twelve words, six old words from the study phase, and six new words from test phase, mixed in a random manner. All the words in the test phase are uncolored. For each word, participant has to distinguish, and present with a response as to whether the word is old (from study phase), or new.
 
 ## How to use:
-
 ### Requirements: 
+Softwares:
+- Psychopy: for building, and running the experiment on the participants (you can download Pyschopy by going to [this link](https://www.psychopy.org/download.html)).
+- Microsoft Excel: for the ananlysis of the data collected.
+
+Participants:
+- Any person (preferably, a human being, for the ease of performing task, but you can train a monkey, or any other animal, by appropriate conditioning protocol, if you're adventourous in nature) who is willing to participate. 
+
 ### Run the task: 
  
 #### Offline:
