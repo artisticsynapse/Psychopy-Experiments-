@@ -8,9 +8,8 @@
 
 "**Recognition memory** can be subdivided into two component processes: **recollection** and **familiarity**, sometimes referred to as "**remembering**" and "**knowing**", respectively. Recollection is the retrieval of details associated with the previously experienced event. In contrast, familiarity is the feeling that the event was previously experienced, without recollection. Thus, the fundamental distinction between the two processes is that recollection is a slow, controlled search process, whereas familiarity is a fast, automatic process. [2]"
 
-In this experiment, six words are shown to the participant in the study phase. These words are either green, or red, in color. After studying these words, participants are asked to proceed with the test phase whenever ready. In test pase, participants are shown twelve words, six old words from the study phase, and six new words from test phase, mixed in a random manner. All the words in the test phase are uncolored. For each word, participant has to distinguish, and present with a response as to whether the word is old (from study phase), or new. 
-
 ## Aim:
+The Aim is to build an experiment which can study, and measure the capacity of recognition memory in indviduals. In this experiment, six words are shown to the participant in the study phase. These words are either green, or red, in color. After studying these words, participants are asked to proceed with the test phase whenever ready. In test pase, participants are shown twelve words, six old words from the study phase, and six new words from test phase, mixed in a random manner. All the words in the test phase are uncolored. For each word, participant has to distinguish, and present with a response as to whether the word is old (from study phase), or new.
 
 ## How to use:
 
