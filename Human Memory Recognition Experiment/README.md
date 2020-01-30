@@ -16,6 +16,7 @@ In this experiment, six words are shown to the participant in the study phase. T
 ## How to use:
 ### Requirements: 
 Softwares:
+- Python (Download from by going to [this link](https://www.python.org/downloads/))
 - Psychopy: for building, and running the experiment on the participants (you can download Pyschopy by going to [this link](https://www.psychopy.org/download.html)).
 - Microsoft Excel: for the ananlysis of the data collected.
 
@@ -25,9 +26,12 @@ Participants:
 ### Run the task: 
  
 #### Offline:
-
+- Download Psychopy.
+- Open it from cmd window by typing simply "Psychopy" 
+- Download the experiment file from ["artisticsynapse/Psychopy-Experiments-Human Memory Recognition Experiment/Psychopy Experiment File/Recognition_Memory_Task_Advanced.psyexp"](https://github.com/artisticsynapse/Psychopy-Experiments-/tree/master/Human%20Memory%20Recognition%20Experiment/Psychopy%20Experiment%20File) 
 #### Online: 
 ![Pavlovia - Human Recognition Memory Experiment](https://github.com/artisticsynapse/Psychopy-Experiments-/blob/master/Human%20Memory%20Recognition%20Experiment/Images/Pavlovia.jpg)
+- Run the file (you can follow [this tutorial](https://www.youtube.com/watch?v=VV6qhuQgsiI&list=PLFB5A1BE51964D587&index=1) on how exactly to use the software to run the experiment)
 
 Please click [here](https://gitlab.pavlovia.org/infinitejest/human-recognition-memory-experiment) to run the experiment online at [Pavlovia.org](https://pavlovia.org/):
 
