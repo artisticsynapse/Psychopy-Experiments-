@@ -16,7 +16,7 @@ In this experiment, six words are shown to the participant in the study phase. T
 ## How to use:
 ### Requirements: 
 Softwares:
-- Python (Download from by going to [this link](https://www.python.org/downloads/))
+- Python (Download from by going to [this link](https://www.python.org/downloads/): preferably Python 3.6, or Python 2.7. Please check more on the latest update on which version of Python runs the best, smoothly with Pyschopy in [this discussion forum](https://discourse.psychopy.org/))
 - Psychopy: for building, and running the experiment on the participants (you can download Pyschopy by going to [this link](https://www.psychopy.org/download.html)).
 - Microsoft Excel: for the ananlysis of the data collected.
 
